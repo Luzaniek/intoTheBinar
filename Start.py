@@ -97,7 +97,7 @@ node = BinarySearchTreeNode(112, nodeLeft, nodeRight)
 print (node.data)
 print (node.left.data)
 
-a = 777
+a = 7777
 
 node.add_val(a)
 print (node.data)
